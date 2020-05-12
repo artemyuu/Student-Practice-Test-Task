@@ -1,0 +1,25 @@
+.wrapper{
+    width: 200px;
+    position: relative;
+}
+
+.red {
+    background: #900;
+    width: 100px;
+    height: 100px;
+}
+  
+.green {
+    background: #090;
+    width: 100px;
+    height: 100px;
+}
+  
+.blue {
+    background: #009;
+    width: 100px;
+    height: 200px;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+}
